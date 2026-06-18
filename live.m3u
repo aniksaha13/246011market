@@ -381,8 +381,10 @@ https://mflixott.com/tv/dd/live.php?id=270.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional
 http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",[BD] Zee Bangla Cinema
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",Zeebangla Cinema FiFa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",Go live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
 
 
 
