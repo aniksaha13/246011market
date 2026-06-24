@@ -355,8 +355,10 @@ https://talive-anikad1.netlify.app/starjalshahd.m3u8
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281675.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/6PXiBCB.jpeg",[BD] starjalsha hd-3
 http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla hd
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla hd 1
 http://premiumtvs.space/live/jen12345/Jen54321/23306.ts
+#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla hd 2
+https://trs1.aynaott.com/colorsbangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla-1
 https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281676.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors bangla-2
